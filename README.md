@@ -1,6 +1,6 @@
 
 <h1 align="center">
-<img alt="Academy" title="Academy" src="https://user-images.githubusercontent.com/15943431/200882433-b5795695-0e28-42ef-bea3-c3db33e74aca.png">
+<img alt="Dicee" title="Dicee" src="https://user-images.githubusercontent.com/15943431/201936320-af1af2dc-d9de-4791-a096-16beeafcd662.png">
 </h1>
 
 <h3 align="center">
