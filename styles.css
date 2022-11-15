@@ -37,6 +37,10 @@ img {
   width: 80%;
 }
 
+a{
+  color: #EEEEEE;
+  text-decoration: none;
+}
 footer {
   margin-top: 5%;
   color: #EEEEEE;
