@@ -12,3 +12,16 @@ function getDicee(){
     dice2=6;
   }
 }
+function sleep(ms) {
+  return new Promise(
+    resolve => setTimeout(resolve, ms)
+  );
+}
+
+function randomizedDice(){
+  for(var i=1;i<8;i++){
+    getDicee();
+    document.querySelectorAll("img")[0].setAttribute("src","imgs/dice"+dice1+".png");
+    document.querySelectorAll("img")[1].setAttribute("src","imgs/dice"+dice2+".png");
+  }
+}
