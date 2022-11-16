@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  > <em>Throw the dice, and test your luck</em> against yourself or a friend.
+  > <em>Throw the dice and test your luck</em>, against yourself or a friend.
 </h3>
 <h3 dir="auto" align="center">
   > Live website <a href="https://wafflesexploit.github.io/Dicee-Challenge/" >here</a>.
