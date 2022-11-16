@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  > This website was created as a exercise to practice my JavaScript.
+  > Throw the dice, and test your luck against yourself or an friend.
 </h3>
 <h3 dir="auto" align="center">
   > Live website <a href="https://wafflesexploit.github.io/Dicee-Challenge/" >here</a>.
@@ -20,6 +20,7 @@
 
 
 ## General Information
+- A two player game where who gets the highest dice value wins, refresh to play again.
 - This website was made to practice my JavaScript Skills.
 
 ## Technologies Used
